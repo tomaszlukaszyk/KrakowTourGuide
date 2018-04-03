@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="visit_title">
+        <item>Wawel Royal Castle</item>
+        <item>The Kraków Cloth Hall</item>
+        <item>Saint Mary\'s Church</item>
+        <item>Kazimierz</item>
+        <item>Juliusz Słowacki Theatre</item>
+        <item>The Kraków Barbican</item>
+        <item>St. Florian\'s Gate</item>
+    </array>
+    <array name="visit_body">
+        <item>It is one of the largest Castels in Poland, represents nearly all European architectural
+            styles of medieval, renaissance and baroque periods. The Wawel Royal Castle and the
+            Wawel Hill constitute the most historically and culturally significant site in the
+            country. In 1978 it was declared a UNESCO World Heritage Site as part of the Historic
+            Centre of Kraków. The Castle is now one of the country\'s premier art museums.</item>
+        <item>It is one of the city\'s most recognizable icons. It is the central feature of the
+            main market square in the Kraków Old Town (listed as a UNESCO World Heritage Site
+            since 1978). It was once a major centre of international trade. Traveling merchants
+            met there to discuss business and to barter. During its golden age in the 15th century,
+            the hall was the source of a variety of exotic imports from the east – spices, silk,
+            leather and wax – while Kraków itself exported textiles, lead, and salt from the
+            Wieliczka Salt Mine. On the upper floor of the hall is the Sukiennice Museum division
+            of the National Museum.</item>
+        <item>It is a Brick Gothic church adjacent to the Main Market Square in Kraków, Poland. Built
+            in the 14th century, its foundations date back to the early 13th century and serve as
+            one of the best examples of Polish Gothic architecture. Standing 80 m (262 ft) tall,
+            it is particularly famous for its wooden altarpiece carved by Veit Stoss (Wit Stwosz).
+            On every hour, a trumpet signal—called the Hejnał mariacki—is played from the top of
+            the taller of Saint Mary\'s two towers. The plaintive tune breaks off in mid-stream,
+            to commemorate the famous 13th century trumpeter, who was shot in the throat while
+            sounding the alarm before the Mongol attack on the city.</item>
+        <item>It is a historical district of Kraków and Kraków Old Town, Poland. Since its
+            inception in the fourteenth century to the early nineteenth century, Kazimierz was an
+            independent city, a royal city of the Crown of the Polish Kingdom, located south of
+            Kraków Old Town and separated by a branch of the Vistula river. For many centuries,
+            Kazimierz was a place of coexistence and interpenetration of ethnic Polish and Jewish
+            cultures, its north-eastern part of the district was historic Jewish, whose Jewish
+            inhabitants were forcibly relocated in 1941 by the German occupying forces into the
+            Krakow ghetto just across the river in Podgórze. Today Kazimierz is one of the major
+            tourist attractions of Krakow and an important center of cultural life of the city.</item>
+        <item>Erected in 1893, was modeled after some of the best European Baroque theatres such as
+            the Paris Opera designed by Charles Garnier, and named after Polish poet Juliusz
+            Słowacki in 1909. The Theatre became the birthplace of the theatrical concept of the
+            Young Poland movement and was closely related to the rediscovery of Romantic drama as
+            well as the premiere productions of plays by Polish national playwright Stanisław Wyspiański.</item>
+        <item>A fortified outpost once connected to the city walls. It is a historic gateway leading
+            into the Old Town of Kraków, Poland. The barbican is one of the few remaining relics of
+            the complex network of fortifications and defensive barriers that once encircled the royal
+            city of Kraków in the south of Poland. The Gothic-style barbican, built around 1498,
+            is one of only three such fortified outposts still surviving in Europe, and the best
+            preserved. It currently serves as a tourist attraction and venue for a variety of exhibitions.</item>
+        <item>It is one of the best-known Polish Gothic towers, and a focal point of Kraków\'s Old
+            Town. It was built about the 14th century as a rectangular Gothic tower of "wild stone",
+            part of the city fortifications against Turkish attack. The Gate tower is 33.5 metres tall.
+            The Baroque metal "helmet" that crowns the gate, constructed in 1660 and renovated in 1694,
+            adds another metre to the height of the gate. The adjoining city walls and two additional,
+            smaller towers had been preserved and today host street displays of amateur art available
+            for purchase.</item>
+    </array>
+    <array name="visit_image">
+        <item>@drawable/wawel</item>
+        <item>@drawable/sukiennice</item>
+        <item>@drawable/mariacki</item>
+        <item>@drawable/kazimierz</item>
+        <item>@drawable/slowacki</item>
+        <item>@drawable/barbakan</item>
+        <item>@drawable/florianska</item>
+    </array>
+    <array name="nature_title">
+        <item>Planty Park</item>
+        <item>Botanic Garden</item>
+        <item>Kościuszko Mound</item>
+        <item>Jordan Park</item>
+    </array>
+    <array name="nature_body">
+        <item>It is one of the largest city parks in Kraków, Poland. It encircles the Stare Miasto
+            (Old Town), where the Medieval city walls used to stand until the early 19th century.
+            The park has an area of 21,000 square meters (5.2 acres) and a length of 4 kilometers
+            (2.5 mi). It consists of a chain of thirty smaller gardens designed in varied styles
+            and adorned with numerous monuments and fountains. The park forms a scenic walkway.</item>
+        <item>It is a botanical garden, founded in 1783 in Kraków. It is located east of the
+            Old Town (Stare Miasto) and occupies 9.6 hectares. It belongs to the Jagiellonian
+            University and is classified as a historical location. Currently the plant collection
+            contains approximately 5000 species and varieties from around the world. This total
+            includes nearly 1,000 species of trees and shrubs, and more than 2,000 species and
+            varieties of plants in greenhouses.</item>
+        <item>Erected by Cracovians in commemoration of the Polish national leader Tadeusz
+            Kościuszko, is an artificial mound modeled after Kraków\'s prehistoric mounds of
+            Krak and Wanda. A serpentine path leads to the top, approx. 326 metres (1,070 ft)
+            above sea level, with a panoramic view of the Vistula River and the city. It was
+            completed in November 1823. The location selected for the monument was the natural
+            Blessed Bronisława Hill (Polish: Wzgórze bł. Bronisławy), also known as Sikornik,
+            situated in the western part of Kraków\'s Zwierzyniec District.</item>
+        <item>It was established in 1889 as the first public playground in Kraków, Poland,
+            and the first of its kind in Europe. It was equipped with exercise fixtures
+            modeled after those of similar playgrounds in the United States. The park is
+            located in Kraków\'s Błonia (municipal grasslands that had previously
+            served as cattle pasture).Jordan Park was Dr. Henryk Jordan\'s biggest achievement,
+            brought to completion with the help from the director of Kraków City Parks, Bolesław Malecki.</item>
+    </array>
+    <array name="nature_image">
+        <item>@drawable/planty</item>
+        <item>@drawable/botaniczny</item>
+        <item>@drawable/kopiec</item>
+        <item>@drawable/jordana</item>
+    </array>
+    <array name="museums_title">
+        <item>Polish Aviation Museum</item>
+        <item>The Museum of Municipal Engineering</item>
+        <item>Oskar Schindler\'s Factory</item>
+        <item>National Museum in Kraków</item>
+        <item>Manggha</item>
+        <item>Cricoteka</item>
+    </array>
+    <array name="museums_body">
+        <item>It is a large museum of old aircraft and aircraft engines in Kraków, Poland. It is
+            located at the site of the no-longer functional Kraków-Rakowice-Czyżyny Airport. This
+            airfield, established by Austria-Hungary in 1912, is one of the oldest in the world.
+            The museum opened in 1964, after the airfield closed in 1963. Has been scored as eighth
+            world\'s best aviation museum by CNN. Several of the aircraft displayed are unique on the
+            world scale, including sailplanes and some 100 aircraft engines.</item>
+        <item>It is a municipal museum in Kraków, Poland; located at ul. św. Wawrzyńca 15 street
+            in the centre of historical Kazimierz district. It was established in 1998 by the city,
+            for the purpose of documenting and popularizing the history of the city engineering,
+            transport as well as technological progress. It consists of several buildings housing
+            early trams, buses and motorcycles, radios, industrial machinery and early means of
+            production, as well as many educational aids and displays.</item>
+        <item>Exhibition "Kraków under Nazi Occupation 1939–1945" is located in the former
+            administrative building of Oskar Schindler\'s Enamel Factory at 4 Lipowa Street.
+            The exhibition is primarily a story about Kraków and its inhabitants, both Polish
+            and Jewish, during World War Two. It is also a story about Nazi Germans – the occupiers
+            who arrived here on 6 September 1939, brutally disrupting Kraków\'s centuries-long
+            history of Polish-Jewish relations. </item>
+        <item>The Museum consists of 21 departments which are divided by art period; 11 galleries,
+            2 libraries, and 12 conservation workshops. It holds some 780,000 art objects, spanning
+            from classical archeology to modern art, with special focus on Polish painting. The Main
+            Building features the newly renovated upper Gallery of the Twentieth Century Polish Art,
+            one of the largest galleries of painting and sculpture from the late 19th century on in
+            Poland, with most celebrated artwork by Jacek Malczewski, Leon Wyczółkowski, Włodzimierz
+            Tetmajer; an extensive collection of works by Stanisław Wyspiański; and also, works by
+            artists of the interwar and postwar periods: the Polish cubists, expressionists, colorists,
+            the avant-garde of the 1930s, and representatives of New Directions from the 1960s.</item>
+        <item>It is Museum of Japanese Art and Technology. In 1920, Feliks Jasieński—critic, writer
+            and collector of art, whose penname was "Manggha"—donated his collection of artworks
+            connected with Japan to the National Museum in Kraków. In 1987, Andrzej Wajda received
+            a film award in Kyoto. He decided to donate the entire sum to build a brand new building
+            in which to exhibit the entire collection. The building was designed by the Japanese
+            architect Arata Isozaki, who donated the design to the foundation. Krzysztof Ingarden,
+            J.Ewy and JET Atelier were collaborating architects on the Polish side. Manggha was
+            opened on November 30, 1994.</item>
+        <item>The Centre for the Documentation of the Art of Tadeusz Kantor was founded by the
+            artist Tadeusz Kantor as early as in 1980; originally named the Centre of the Cricot
+            2 Theatre. For almost ten years, the institution has been the cornerstone of Kantor\'s
+            avant-garde theatre, as well as a \'living archive\' of his theatrical creation. The unique
+            collection of Kantor\'s works is the basis of the activities of the Centre. The collection
+            comprises several hundred objects and costumes from the Cricot 2 Theatre, Kantor/'s
+            theoretical papers, drawings and design works, video records, and photographic
+            documentation as well as thousands of reviews, journals and books.</item>
+    </array>
+    <array name="museums_image">
+        <item>@drawable/lotnictwa</item>
+        <item>@drawable/inzynieria</item>
+        <item>@drawable/schindler</item>
+        <item>@drawable/narodowe</item>
+        <item>@drawable/manggha</item>
+        <item>@drawable/critoteka</item>
+    </array>
+    <array name="events_title">
+        <item>Wianki (Wreaths)</item>
+        <item>Traditional Rękawka Festival</item>
+        <item>The Great Dragon Parade</item>
+        <item>Juwenalia</item>
+        <item>Pierogi (Dumplings) Festival</item>
+    </array>
+    <array name="events_body">
+        <item>An old Slavic custom whose roots date back to pre-Christian times, held during the
+            spring/summer solstice when the night is shortest and the day longest. During this day
+            the most important two were darkness and light. In the middle of the night the community
+            of the Slavic settlement went to a secluded place, often an old cemetery. On the sacred
+            spots huge bonfires were started and burnt till morning to accompany the songs, dances,
+            and various revelry and frolics. At the culmination moment of the celebrations girls
+            floated wreaths plaited of various herbs and flowers on the water, a symbols of virginity.
+            Presently it has a form of mass picnic with musical concerts and fireworks, held at
+            shore of Vistula river. </item>
+        <item>Held at the Krakus Mound this festival transports you back in time. You will experience
+            life in early-mediaeval settlements, learn about ancient crafts and admire knights armour
+            and everyday costumes.  The steep slopes of the hill are the perfect vantage point for
+            admiring the warriors clad in full armour running around the mound, and re-enacting
+            historical battles.</item>
+        <item>In Kraków there is a legend of the Wawel Dragon, a dreadful beast that devoured all
+            the livestock and terrorised the city until a brave tailor fed it sulphur covered in
+            sheepskin, causing the monster to drink and drink and drink until it burst into a
+            million pieces. This colourful festival brings him to life with enormous puppets
+            created by Teatr Groteska, as well as floats created by locals. Saturday night\'s
+            spectacular extravaganza on the river, during which flying dragons battle it out
+            to a backdrop of lasers, fireworks and music, is one of Kraków\'s absolute cultural
+            highlights and not to be missed if you\'re in town.</item>
+        <item>It is an annual higher education students holiday in Poland, usually celebrated in
+            May, before the summer exams, sometimes also at the beginning of June. The first
+            Juwenalia were celebrated in the 15th century in Cracow. Juwenalia start with a
+            triumphant parade of colorfully dressed students. The participants march from a
+            college\'s campus to city\'s main square, where in a symbolic gesture, the mayor of a
+            city hands keys to the city\'s gates to the students. The three days are free from
+            lectures and filled with concerts, parties, sports events as well as beer drinking.</item>
+        <item>The festival presents one of the most famous item of Polish cuisine - the dumpling.
+            The event will help you to get to know Polish tradition of cuisine better as well as to
+            try out the specialties. Festival is usually celebrated at the Plac Szczepanski (Square)
+            and Small Market Square, where several restaurants and food producers present their offers.
+            There is always a lot to taste: many types of pierogi with different fillings, either
+            cooked or fried with their crispy golden crust, as well as traditional oscypek cheese
+            from the mountains.</item>
+    </array>
+    <array name="events_image">
+        <item>@drawable/wianki</item>
+        <item>@drawable/rekawka</item>
+        <item>@drawable/smoki</item>
+        <item>@drawable/juwenalia</item>
+        <item>@drawable/pierogi</item>
+    </array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Krakow Tour Guide</string>
+    <string name="visit_category">Relics</string>
+    <string name="nature_category">Nature</string>
+    <string name="museums_category">Museums</string>
+    <string name="events_category">Events</string>
+</resources>
